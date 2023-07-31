@@ -1,0 +1,43 @@
+librerias 
+
+requests vc urlllib2 JSON
+
+
+documentation
+http://docs.python-requests.org/en/master
+
+
+
+https://www.google.com.mx
+
+
+we can get from the server: files, json, file html, xml
+
+
+installs
+ python -m pip install requests
+
+
+ DOCUMENTATION
+  https://httpbin.org
+
+
+  url you used ? x=x&
+
+  https://httpbin.org/get   post
+
+ https://pokeapi.co
+
+ https://github.com/settings/applications/new
+
+ OAuth 
+ https://developer.github.com/v3/oauth/   # register their application
+
+
+ https://github.com/settings/applications/new
+
+
+ https://developer.github.com/v3/repos/#get
+ https://docs.github.com/es/rest/repos?apiVersion=2022-11-28#get
+
+ https://developer.github.com/v3/repos/#get
